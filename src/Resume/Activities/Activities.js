@@ -40,7 +40,7 @@ export default function Activities() {
 
                   <div className="twelve columns">
 
-                     <h3>Programmer/Ideas Competition(2020)/IIM Banglore</h3>
+                     <h3>Programmer/Ideas Competition(2020)/IIM Bangalore</h3>
                      <p className="info">MC Programmer<span>&bull;</span> <em className="date">Octomber 2019 - May 2020</em></p>
 
                      <p>
