@@ -20,7 +20,10 @@ function HomePage() {
           <li><Link to="cv-chetan/resume" >Resume</Link></li>
           <li><Link to="cv-chetan/activities" >Activities</Link></li>
           <li><Link to="cv-chetan/contact" >Contact</Link></li>
-        </ul></nav>
+        </ul>
+        
+        
+        </nav>
 
 
     </div>
