@@ -16,7 +16,7 @@ function Home() {
                <hr />
                <ul className="social">
                   <li><a href="https://github.com/devvrat02"><i className="fa fa-github"></i></a></li>
-                  <li><a href="https://www.linkedin.com/in/chetan-malviya-425b48179"><i className="fa fa-linkedin"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/devvrat02"><i className="fa fa-linkedin"></i></a></li>
                   <li><a href="mailto:malviyachetan02@gmail.com"><i className="fa fa-envelope"></i></a></li>
                </ul>
             </div>

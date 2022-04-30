@@ -50,7 +50,7 @@ export default function Contact() {
             </div>
 
             <h5>Let's Connect</h5>
-            <a href="https://www.linkedin.com/in/chetan-malviya-425b48179/" >LinkedIn Profile</a>
+            <a href="https://www.linkedin.com/in/devvrat02" >LinkedIn Profile</a>
 
          </div>
 

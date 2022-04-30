@@ -10,19 +10,16 @@ import { Link } from "react-router-dom";
 
 
 function HomePage() {
- 
-
-
   return (
     <div>
       <nav id="nav-wrap">
         <ul id="nav" className="nav">
-          <li ><Link to="" >Home</Link></li>
-          <li><Link to="/project" >Projects</Link></li>
-          <li><Link to="/about" >About</Link></li>
-          <li><Link to="/resume" >Resume</Link></li>
-          <li><Link to="/activities" >Activities</Link></li>
-          <li><Link to="/contact" >Contact</Link></li>
+          <li ><Link to="cv-chetan" >Home</Link></li>
+          <li><Link to="cv-chetan/project" >Projects</Link></li>
+          <li><Link to="cv-chetan/about" >About</Link></li>
+          <li><Link to="cv-chetan/resume" >Resume</Link></li>
+          <li><Link to="cv-chetan/activities" >Activities</Link></li>
+          <li><Link to="cv-chetan/contact" >Contact</Link></li>
         </ul></nav>
 
 

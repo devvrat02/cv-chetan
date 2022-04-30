@@ -3,11 +3,12 @@ import { Link } from "react-router-dom";
 export default function Project() {
   return (<>
     <section id="project">
-
+    <div className="overlay"></div>
       <div className="u-body u-xl-mode">
         <section className="u-clearfix u-gradient u-section-1" id="carousel_5187">
           <div className="u-clearfix u-sheet u-sheet-1">
-            <h2 className="u-align-center u-text u-text-default u-text-1">Projects</h2>
+            <br />
+            <h2 className="u-align-center u-text u-text-default u-text-1" >Projects</h2>
             <h3 className="u-align-center u-custom-font u-text u-text-default u-text-2"> Check out my creations.</h3>
             <div className="u-clearfix u-expanded-width u-gutter-50 u-layout-wrap u-layout-wrap-1">
               <div className="u-layout">

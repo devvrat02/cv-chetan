@@ -119,7 +119,7 @@
          margin-right: 0;
       }
 
-      /*Sunwoo Added*/
+
       .row {
          width: auto;
          padding-left: 30px;
@@ -177,7 +177,7 @@
          text-align: center;
       }
 
-      /*Sunwoo added*/
+
       .row {
          padding-left: 25px;
          padding-right: 25px;
@@ -331,8 +331,8 @@
       right: 0;
    }
    #nav-wrap > a {
-	   width: 30px;
-		height: 30px;
+	   width: 20px;
+		height: 20px;
 		text-align: left;
 		background-color: #CC5200;
 		position: relative;
@@ -352,9 +352,9 @@
    #nav-wrap > a:after {
 	   position: absolute;
 		border: 2px solid #fff;
-		top: 35%;
-		left: 25%;
-		right: 25%;
+		top: 20%;
+		left: 15%;
+		right: 15%;
 		content: '';
 	}
    #nav-wrap > a:after { top: 60%; }
@@ -374,14 +374,14 @@
       float: right;     
 
       position: relative;
-      top: 12px;
+      top: 10px;
       right: 0;
    }
 
    /* display menu panels */
 	#nav-wrap:target > ul#nav	{
 	   display: block;
-      padding: 30px 20px 20px 20px;
+      padding: 20px 10px 10px 10px;
       background: #1f2024;
       margin: 0 30px;
       clear: both;
@@ -571,7 +571,7 @@
 
    /* header styles
    -------------------------------------------------------------------- */
-   header .banner { padding-top: 24px; }
+   header .banner { padding-top: 20px; }
    header .banner-text h1 {
       font: 40px/1.1em 'opensans-bold', sans-serif;      
       margin: 0 auto 24px auto;

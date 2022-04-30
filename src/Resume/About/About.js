@@ -1,4 +1,4 @@
-import profileImage from './img/profile.png'
+import profileImage from './img/profile2.jpg'
 export default function About() {
    return (
       <section id="about">
