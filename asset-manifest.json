@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/cv-chetan/static/js/main.fe9a5620.js",
+    "main.js": "/cv-chetan/static/js/main.5eeaf516.js",
     "static/js/787.34069cd4.chunk.js": "/cv-chetan/static/js/787.34069cd4.chunk.js",
-    "static/media/profile.png": "/cv-chetan/static/media/profile.396f9fbf13e176825917.png",
+    "static/media/profile2.jpg": "/cv-chetan/static/media/profile2.7a4ac41c24ca7aa925d5.jpg",
     "index.html": "/cv-chetan/index.html",
-    "main.fe9a5620.js.map": "/cv-chetan/static/js/main.fe9a5620.js.map",
+    "main.5eeaf516.js.map": "/cv-chetan/static/js/main.5eeaf516.js.map",
     "787.34069cd4.chunk.js.map": "/cv-chetan/static/js/787.34069cd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.fe9a5620.js"
+    "static/js/main.5eeaf516.js"
   ]
 }
