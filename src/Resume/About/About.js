@@ -51,7 +51,7 @@ export default function About() {
                <ul className="skill-bars">
                   <li>
                      <div className="progress percent80"><span>80%</span></div>
-                     <strong>React.js</strong>
+                     <strong>JS(MERN)</strong>
                   </li>
                   <li>
                      <div className="progress percent80"><span>80%</span></div>
@@ -66,10 +66,13 @@ export default function About() {
                      <strong>Java</strong>
                   </li>
                   <li>
-                     <div className="progress percent70"><span>70%</span></div>
+                     <div className="progress percent70"><span>80%</span></div>
                      <strong>JS/CSS/HTML</strong>
                   </li>
-
+                  <li>
+                     <div className="progress percent80"><span>80%</span></div>
+                     <strong>SQL/PGSQL/Firebase/Mongo</strong>
+                  </li>
 
                </ul>
 
@@ -80,7 +83,7 @@ export default function About() {
          <div className="row button-section">
             <div className="col-twelve">
                <a href="mailto:malviyachetan02@gmail.com" title="Hire Me" className="button stroke smoothscroll">Hire Me</a>
-               <a href="https://shorturl.at/dnvG4" title="Download CV" className="button button-primary">Download CV</a>
+               <a href="https://bit.ly/3ygFyRG" title="Download CV" className="button button-primary">Download CV</a>
             </div>
          </div>
       </section>

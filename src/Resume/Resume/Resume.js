@@ -34,7 +34,7 @@ export default function Resume() {
                      <div className="timeline-header">
 
                         <h3>Full Stack Engineer</h3>
-                        <p>February 2022 - Present</p>
+                        <p>February 2022 - June 2022</p>
                      </div>
 
                      <div className="timeline-content">
@@ -95,7 +95,7 @@ export default function Resume() {
                      <div className="timeline-content">
                         <h4>Shri Vaishnav Vidhyapeeth Vishwavidyalaya</h4>
                         <p>Bachelor Of Technologies in Computer Science and Communication Engineering</p>
-                        <p>CGPA: 7.57/10</p>
+                        <p>CGPA: 7.73/10</p>
                      </div>
 
                   </div>

@@ -1,5 +1,6 @@
 export default function Contact() {
-   return (<section id="contact">
+   return (
+   <section id="contact" >
 
       <div className="row section-intro">
          <div className="col-twelve">
